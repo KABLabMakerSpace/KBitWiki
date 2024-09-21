@@ -28,3 +28,5 @@ Wiki Hotspot
 
 #### Initial Wiki is a static website made from the Wikis under this KabLabMakerSpace org
 - However any static website can be put on the thumb drive and  will be served
+#### Build steps can be found in the repository Wiki
+![image](https://github.com/user-attachments/assets/fae4a1f3-412d-4302-aba2-0f23ac35184d)
