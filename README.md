@@ -23,5 +23,8 @@ Wiki Hotspot
 
 - Hardware: PI Zero W v1.1 w/micro sd (raspios-bullseye)
   - 20000 mAh Portable Charger Power Bank
-  - USB Thumb Drive
+  - USB Thumb Drive - holds statc website/wiki
   - 3-D Printed-Lego compatable mounting
+
+#### Initial Wiki is a static website made from the Wikis under this KabLabMakerSpace org
+- However any static website can be put on the thumb drive and  will be served
